@@ -1,0 +1,5 @@
+maksure visual is in command prompt and not powershell
+
+Q:\Barrett\SBIR\EngineeringPlanningDev>conda activate excel
+
+(excel) Q:\Barrett\SBIR\EngineeringPlanningDev>python report_generator.py
